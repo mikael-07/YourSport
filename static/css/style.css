@@ -1,0 +1,167 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+  .box {
+    width: 500px;
+    height: 250px;
+    border: 5px solid #A50000;
+    margin: 5px;
+  }
+
+  .navbar {
+    background-color: #000000;
+    padding: 10px;
+    
+  }
+
+  .navbar-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+  }
+
+  ul{
+    font-family: sans-serif;
+  }
+  .green-text {
+    color: green;
+  }
+  .red-text {
+    color: #A50000;
+  }
+
+  .marginal {
+    margin-left: 0.195cm;
+    margin-top: 0.14cm;
+  }
+
+  .center {
+    text-align: center;
+  }
+  
+  ul {
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline-block;
+    list-style-type: none;
+    
+  }
+  .main-content {
+    width: 80%;
+    margin: auto;
+  }
+  .imagebox {
+    width: 550px;
+    height:560px;
+    border: 5px solid #A50000;
+    
+    
+  }
+  .inline {
+    display: inline;
+  }
+  
+  .box2 {
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+  }
+  .homeborder {
+    width: 1200px;
+    height: 650px;
+    border: 10px solid #A50000;
+    margin: 5px;
+    text-align: center;
+  }
+  .small {
+    width: 325px;
+    height: 325px;
+    padding: 1em;
+    display: inline;
+  }
+  .whitetext-index {
+    color: white;
+    display: inline;
+  }
+  .homepictures {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .topmargin{
+    margin-top: 0.4cm;
+  }
+  .hometext1 {
+    font-size: 65;
+  }
+
+  .hometext2 {
+    font-size: 50;
+  }
+
+  #remove-padding-right {
+    padding-right: 0 !important;
+  }
+  /* Style all font awesome icons */
+.fa {
+  font-size: 100px;
+  width: 120px;
+  height: 90px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 38px; 
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #e70e4b;
+  color: white;
+}
+.fa-google {
+  background: #007b00;
+  color: white;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.servicetext1 {
+  font-size: 40px;
+}
+
+.hometext3 {
+  font-size: 30px;
+}
+
+.picturealign {
+  align-items: center;
+}
+.socials {
+  text-align: center;
+}
+
+.abouttext1 {
+  font-size: 40px;
+}
+
+
+
+
